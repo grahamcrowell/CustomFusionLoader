@@ -1,0 +1,13 @@
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\CustomFusionLoader.exe.config
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\CustomFusionLoader.exe
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\CustomFusionLoader.pdb
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\obj\Debug\CustomFusionLoader.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\obj\Debug\CustomFusionLoader.exe
+C:\Users\user\Dropbox\fusion\gc\CustomFusionLoader\obj\Debug\CustomFusionLoader.pdb
